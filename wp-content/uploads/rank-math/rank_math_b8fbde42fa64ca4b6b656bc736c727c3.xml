@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//desainsosmed.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://desainsosmed.com/post-sitemap.xml</loc>
+		<lastmod>2024-05-07T08:18:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://desainsosmed.com/page-sitemap.xml</loc>
+		<lastmod>2024-05-06T01:33:07+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
